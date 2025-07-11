@@ -1,0 +1,18 @@
+[
+  { "pump": "Pump 1", "code": "P1", "label": "Nitrogen" },
+  { "pump": "Pump 2", "code": "P2", "label": "Potassium" },
+  { "pump": "Pump 3", "code": "P3", "label": "Phosphorous" },
+  { "pump": "Pump 4", "code": "P4", "label": "Distilled Water" },
+  { "pump": "Pump 5", "code": "P5", "label": "Exhaust" },
+  { "pump": "Pump 6", "code": "P6", "label": "Sulphur (A & B)" },
+  { "pump": "Pump 7", "code": "P7", "label": "Nitrogen - D" },
+  { "pump": "Pump 8", "code": "P8", "label": "Mixing" },
+  { "pump": "Pump 9", "code": "P9", "label": "Distilled Water" },
+  { "pump": "Pump 10", "code": "P10", "label": "Extraction Solution - A (ED)" },
+  { "pump": "Pump 11", "code": "P11", "label": "Distilled Water" },
+  { "pump": "Pump 12", "code": "P11", "label": "Extraction Solution - A (ED)" },
+  { "pump": "Pump 13", "code": "P12", "label": "Organic Carbon - A (ED)" },
+  { "pump": "Pump 14", "code": "P13", "label": "Organic Carbon - B (ED)" },
+  { "pump": "Pump 15", "code": "P14", "label": "Macronutrient A" },
+  { "pump": "Pump 16", "code": "P15", "label": "Macronutrient B" }
+]
